@@ -1,0 +1,8 @@
+19:15:37 [32minfo[39m: information log
+19:15:37 [33mwarn[39m: warning log
+19:15:37 [31merror[39m: error log
+19:15:37 [34mdebug[39m: debug log
+{"message":"information log","level":"info","service":"user-service","timestamp":"2021-07-13T13:50:12.857Z"}
+{"message":"warning log","level":"warn","service":"user-service","timestamp":"2021-07-13T13:50:12.858Z"}
+{"message":"error log","level":"error","service":"user-service","timestamp":"2021-07-13T13:50:12.858Z"}
+{"message":"debug log","level":"debug","service":"user-service","timestamp":"2021-07-13T13:50:12.858Z"}
